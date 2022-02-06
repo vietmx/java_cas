@@ -1,0 +1,5 @@
+com\maixuanviet\cassecuredapp\controllers\AuthController.class
+com\maixuanviet\cassecuredapp\config\WebSecurityConfig.class
+com\maixuanviet\cassecuredapp\controllers\SecuredController.class
+com\maixuanviet\cassecuredapp\controllers\IndexController.class
+com\maixuanviet\cassecuredapp\CasSecuredApplication.class
